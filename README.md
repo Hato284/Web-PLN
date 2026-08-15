@@ -29,5 +29,6 @@ The complete source code of this project is securely packaged. You can download 
 If you want to test the application, see a live demo, or request the extraction password, please contact the developer at:
 Email                :  xxxhafizxxx03@gmail.com
 WhatsApp / Telegram  :  085883152852/+6285883152852
+
 ---
 © 2026 Hafiz Dwiyanto. All rights reserved.
